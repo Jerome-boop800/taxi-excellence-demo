@@ -1,0 +1,11 @@
+{
+  "name": "Taxi Excellence (Démonstration)",
+  "short_name": "Taxi Excellence Démo",
+  "description": "Maquette de démonstration — projet fictif à des fins de portfolio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a2a4a",
+  "theme_color": "#1a2a4a",
+  "lang": "fr"
+}
